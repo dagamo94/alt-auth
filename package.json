@@ -1,0 +1,36 @@
+{
+  "name": "alt-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagamo94/alt-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagamo94/alt-auth/issues"
+  },
+  "homepage": "https://github.com/dagamo94/alt-auth#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dot-env": "0.0.1",
+    "dotenv": "^8.0.0",
+    "ejs-layouts": "0.0.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-session": "^1.16.2",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^5.10.1",
+    "session": "^0.1.0"
+  }
+}
